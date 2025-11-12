@@ -123,5 +123,5 @@ This project successfully demonstrated that models using **BERT embeddings** sig
 
 ---
 
-> © 2025 — Project: *social media fake news detection*  
+> © 2025 — Project: *Fake News Detection using NLP and Deep Learning*  
 > *Developed for academic research and educational purposes.*
