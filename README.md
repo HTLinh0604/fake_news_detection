@@ -1,14 +1,13 @@
 #  Fake News Detection using NLP and Deep Learning
 *(Phát hiện Tin giả bằng NLP và Học sâu)*
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Transformers](https://img.shields.io/badge/Transformers-BERT-yellow?logo=huggingface)
 ![NLP](https://img.shields.io/badge/NLP-Preprocessing-6AC045?style=flat&logo=nltk)
 ![BERT](https://img.shields.io/badge/BERT-Embeddings-7933FF?style=flat&logo=transformers)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-LSTM-FF6F00?logo=tensorflow)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML%20Models-orange?logo=scikit-learn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Optimized-green?logo=xgboost)
-![imbalanced-learn](https://img.shields.io/badge/Imbalanced--Learn-Balancing-lightgrey)
 
 ---
 
